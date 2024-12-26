@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CFG USB Loader\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-07 23:40+0200\n"
-"PO-Revision-Date: 2010-01-23 14:18-0500\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-02-10 11:11-0500\n"
+"PO-Revision-Date: 2014-01-31 14:18-0500\n"
+"Last-Translator: wiiuser2 <EMAIL@ADDRESS>\n"
 "Language-Team: DUTCH <EMAIL@ADDRESS>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 
 #, c-format
 msgid "%.1fGB free of %.1fGB"
@@ -44,6 +44,18 @@ msgid "%s, please wait..."
 msgstr "%s, even geduld..."
 
 #, c-format
+msgid "%s: Favorites"
+msgstr "%s: Favorieten"
+
+#, c-format
+msgid "%s: GUI "
+msgstr "%s: Grafisch "
+
+#, c-format
+msgid "%s: Options "
+msgstr "%s: Opties "
+
+#, c-format
 msgid "(%d online)"
 msgstr "(%d online)"
 
@@ -57,8 +69,26 @@ msgstr "(Dit kan een paar minuten duren)"
 msgid ".dol too small"
 msgstr ".dol te klein"
 
+msgid "1.2+"
+msgstr "1.2+"
+
+msgid "1st-Person Shooter"
+msgstr "1st-Person Shooter"
+
+msgid "2.0+"
+msgstr "2.0+"
+
+msgid "2.1+"
+msgstr "2.1+"
+
+msgid "2.2+"
+msgstr "2.2+"
+
 msgid "3D cover"
 msgstr "3D hoesje"
+
+msgid "3rd-person Shooter"
+msgstr "3rd-person Shooter"
 
 msgid "< ASC  >"
 msgstr "< Opl >"
@@ -70,7 +100,7 @@ msgid "< DOWNLOAD >"
 msgstr "< DOWNLOAD >"
 
 msgid "About"
-msgstr ""
+msgstr "Over"
 
 msgid "Action"
 msgstr "Actie"
@@ -79,10 +109,10 @@ msgid "Additional config:"
 msgstr "Extra instellingen:"
 
 msgid "Admin Lock:"
-msgstr ""
+msgstr "Vergrendel Admin:"
 
 msgid "Admin Unlock"
-msgstr ""
+msgstr "Ontgrendel Admin"
 
 msgid "Adult"
 msgstr "18+"
@@ -93,11 +123,17 @@ msgstr "Avontuur"
 msgid "All"
 msgstr "Alle"
 
+msgid "All Channels"
+msgstr "Alle Kanalen"
+
 msgid "All Games"
 msgstr "Alle spellen"
 
 msgid "All themes up to date."
 msgstr "Alle thema's zijn bijgewerkt"
+
+msgid "Alt Button Cfg:"
+msgstr "Alt knoppen Cfg:"
 
 msgid "Alt dol:"
 msgstr "Alt dol:"
@@ -111,6 +147,9 @@ msgstr "Anti 002 Fix:"
 #, c-format
 msgid "App. Path: %s"
 msgstr "App locatie: %s"
+
+msgid "Arcade"
+msgstr "Arcade"
 
 #, c-format
 msgid ""
@@ -133,10 +172,10 @@ msgstr ""
 "verwijderen?"
 
 msgid "Ascending"
-msgstr ""
+msgstr "Oplopend"
 
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #, c-format
 msgid "Auto-start game: %.6s not found!"
@@ -146,29 +185,62 @@ msgid "Available Updates"
 msgstr "Beschikbare updates"
 
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 msgid "Balance Board"
 msgstr "Balance Board"
 
+msgid "Baseball"
+msgstr "Honkbal"
+
 msgid "Basic"
-msgstr ""
+msgstr "Basic"
+
+msgid "Basketball"
+msgstr "Basketbal"
+
+msgid "Bike Racing"
+msgstr "Fiets racing"
+
+msgid "Billiards"
+msgstr "Biljarten"
 
 msgid "Block IOS Reload:"
 msgstr "Blokkeer IOS Herladen:"
+
+msgid "Board Game"
+msgstr "Bordspel"
 
 msgid "Boot Disc"
 msgstr "Start Disc"
 
 msgid "Boot disc"
-msgstr ""
+msgstr "Start disc"
 
-msgid "Booting Wii game, please wait..."
-msgstr "Spel wordt gestart: even geduld..."
+msgid "Booting game, please wait..."
+msgstr "Start spel, even geduld...."
+
+msgid "Bowling"
+msgstr "Bowling"
+
+msgid "Boxing"
+msgstr "Boxen"
+
+msgid "Business Sim"
+msgstr "Zakelijke Sim"
 
 #, c-format
 msgid "CFG base: %s"
 msgstr "CFG basis: %s"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "Can not dump GC savegames.\n"
+msgstr "Kan geen GC savegames dumpen.\n"
+
+msgid "Can't install Wii games!"
+msgstr "Kan geen Wii games installeren"
 
 msgid "Cancelled."
 msgstr "Geannuleerd"
@@ -176,6 +248,12 @@ msgstr "Geannuleerd"
 #, c-format
 msgid "Cannot create dir: %s"
 msgstr "Kan dir niet aanmaken: %s"
+
+msgid "Cards"
+msgstr "Kaarten"
+
+msgid "Channel"
+msgstr "Kanalen"
 
 msgid "Cheat Codes:"
 msgstr "Cheat Codes:"
@@ -192,17 +270,32 @@ msgstr "Controleren nieuwe thema's.."
 msgid "Checking for updates..."
 msgstr "Controleren op updates..."
 
+msgid "Chess"
+msgstr "Schaken"
+
 msgid "Choose a sorting method"
 msgstr "Kies een sorteermethode"
 
 msgid "Classic"
-msgstr ""
+msgstr "Klassiek"
 
 msgid "Classic Controller"
 msgstr "Klassieke Controller"
 
+msgid "Clear"
+msgstr "Wissen"
+
 msgid "Clear Patches:"
 msgstr "Verwijder patches:"
+
+msgid "Coaching"
+msgstr "Coaching"
+
+msgid "Compare Type"
+msgstr "Vergelijk Type"
+
+msgid "Compilation"
+msgstr "Compilatie"
 
 #, c-format
 msgid "Complete. Size: %d"
@@ -220,13 +313,19 @@ msgid "Connection error from net_read()  Errorcode: %i"
 msgstr "Connectiefout van net_read()  Foutcode: %i"
 
 msgid "Console"
-msgstr ""
+msgstr "Console"
 
-msgid "Console Def."
-msgstr "Console Def."
+msgid "Construction Sim"
+msgstr "Bouw simulatie"
+
+msgid "Contains"
+msgstr "Bevat"
 
 msgid "Controller"
-msgstr ""
+msgstr "Controller"
+
+msgid "Cooking"
+msgstr "Koken"
 
 #, c-format
 msgid "Could not initialize DIP module! (ret = %d)"
@@ -236,25 +335,31 @@ msgid "Country Fix:"
 msgstr "Land fix:"
 
 msgid "Cover"
-msgstr ""
+msgstr "Hoes"
 
 msgid "Cover Image:"
 msgstr "Hoesje:"
 
 msgid "Cover Style"
-msgstr ""
+msgstr "Stijl Hoesje"
+
+msgid "Covers Available"
+msgstr "Beschikbare Hoesjes"
 
 msgid "Cover~~Back"
-msgstr ""
+msgstr "Hoesje~~Achterkant"
 
 msgid "Cover~~Front"
-msgstr ""
+msgstr "Hoesje~~Voorkant"
 
 msgid "Create"
 msgstr "Maak"
 
 msgid "Creator"
 msgstr "Ontwerper"
+
+msgid "Cricket"
+msgstr "Cricket"
 
 #, c-format
 msgid "Current Version: %s"
@@ -284,20 +389,29 @@ msgstr ""
 msgid "Custom IOS %s Loaded OK"
 msgstr "custom IOS %s geladen"
 
+msgid "DEVO"
+msgstr "DEVO"
+
 msgid "DISC cover"
 msgstr "Disc afbeelding"
 
 msgid "DOWN"
 msgstr "OMLAAG"
 
+msgid "Dance"
+msgstr "Dansen"
+
 msgid "Dance Pad"
 msgstr "Dansmat"
+
+msgid "Darts"
+msgstr "Darts"
 
 msgid "Database update successful."
 msgstr "Database update succesvol"
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Delete Game"
 msgstr "Spel verwijderen"
@@ -306,7 +420,7 @@ msgid "Deleting"
 msgstr "Bezig met verwijderen"
 
 msgid "Descending"
-msgstr ""
+msgstr "Aflopend"
 
 msgid "Developer"
 msgstr "Ontwikkelaar"
@@ -315,7 +429,13 @@ msgid "Device is not responding!"
 msgstr "Apparaat reageert niet!"
 
 msgid "Device:"
-msgstr "Apparaat"
+msgstr "Apparaat:"
+
+msgid "Devolution only accepts clean dumps!\n"
+msgstr "Devolution accepteert alleen schone dumps!\n"
+
+msgid "Devolution:"
+msgstr "Devolution:"
 
 msgid "Disc"
 msgstr "Disk"
@@ -330,16 +450,19 @@ msgid "Download .txt"
 msgstr ".txt downloaden"
 
 msgid "Download All Covers"
-msgstr ""
+msgstr "Alle hoesjes downloaden"
 
 msgid "Download All Missing Covers"
 msgstr "Alle missende hoesjes downloaden"
 
 msgid "Download Missing Covers"
-msgstr ""
+msgstr "Ontbrekende hoesjes downloaden"
+
+msgid "Download Plugins"
+msgstr "Plugins downloaden"
 
 msgid "Download Themes"
-msgstr ""
+msgstr "Themes downloaden"
 
 msgid "Download complete."
 msgstr "Downloaden voltooid"
@@ -348,8 +471,8 @@ msgstr "Downloaden voltooid"
 msgid "Download error on gamercard #%d."
 msgstr "Download fout op spelerkaart #%d"
 
-msgid "Download titles.txt"
-msgstr ""
+msgid "Download game information"
+msgstr "Download spel info"
 
 msgid "Downloadable Content"
 msgstr "Downloadbare content"
@@ -377,8 +500,23 @@ msgstr "Cheats downloaden..."
 msgid "Downloading database."
 msgstr "Database downloaden."
 
+msgid "Downloading devolution."
+msgstr "Downloading devolution."
+
+msgid "Downloading mighty plugin."
+msgstr "Downloading mighty plugin."
+
+msgid "Downloading neek2o plugin."
+msgstr "Downloading neek2o plugin."
+
 msgid "Downloading titles.txt ..."
 msgstr "Titles.txt downloaden ..."
+
+msgid "Downloading translation file."
+msgstr "Vertaling downloaden"
+
+msgid "Downloading unifont."
+msgstr "Downloaden unifont"
 
 #, c-format
 msgid "Downloading: %s"
@@ -391,8 +529,17 @@ msgstr "Downloading: %s als %s"
 msgid "Downloads"
 msgstr "Downloads"
 
+msgid "Drawing"
+msgstr "Tekenen"
+
 msgid "Drums"
 msgstr "Drums"
+
+msgid "Dump savegame"
+msgstr "Dump savegame"
+
+msgid "Duplicate ID3"
+msgstr "Toon dubbele spellen"
 
 msgid "Dutch"
 msgstr "Nederlands"
@@ -499,6 +646,9 @@ msgstr "FOUT: SD modus wijzigen"
 msgid "ERROR: USB init! (%d)"
 msgstr "FOUT: USB init! (%d)"
 
+msgid "ERROR: WBFS not mounted!"
+msgstr "FOUT: WBFS niet gekoppeld"
+
 msgid ""
 "ERROR: cIOS249rev18, cIOS222v4,\n"
 "cIOS223v4, cIOS224v5 or higher required\n"
@@ -550,11 +700,18 @@ msgid "ERROR: setting up fragments %d %d"
 msgstr "FOUT: opzetten van fragmenten %d %d"
 
 #, c-format
+msgid "ERROR: the drive or partition %s/ is not connected!!"
+msgstr "FOUT: the schijf of partitie %s/ is niet verbonden"
+
+#, c-format
 msgid "ERROR: writing %s (%d)."
 msgstr "FOUT: schrijven van %s (%d)"
 
 msgid "EXTEND"
 msgstr "EXTEND"
+
+msgid "Educational"
+msgstr "Educatief"
 
 msgid "Ejecting DVD..."
 msgstr "DVD uitwerpen..."
@@ -572,10 +729,14 @@ msgid "Error GRRLIB init"
 msgstr "Fout bij GRRLIB init"
 
 msgid "Error Initializing Network."
-msgstr "Fuot bij netwerk init."
+msgstr "Fout bij netwerk init."
 
 msgid "Error adding disc!"
-msgstr "Fuot bij spel toevoegen"
+msgstr "Fout bij spel toevoegen"
+
+#, c-format
+msgid "Error allocating buffer: %d"
+msgstr "Fout bij alloceren buffer: %d"
 
 msgid "Error creating directory..."
 msgstr "Fout bij aanmaken folder..."
@@ -650,8 +811,11 @@ msgstr "Fout: geen URL."
 msgid "Error: no data."
 msgstr "Fout: geen data."
 
+msgid "Exercise"
+msgstr "Training"
+
 msgid "Exit"
-msgstr ""
+msgstr "Verlaten"
 
 #, c-format
 msgid "Extracting: %s"
@@ -679,16 +843,16 @@ msgid "FULL cover"
 msgstr "HD hoesje"
 
 msgid "Fav"
-msgstr ""
+msgstr "Fav"
 
 msgid "Fav: Off"
-msgstr ""
+msgstr "Fav: Uit"
 
 msgid "Fav: On"
-msgstr ""
+msgstr "Fav: Aan"
 
 msgid "Favorite"
-msgstr ""
+msgstr "Favoriet"
 
 msgid "Favorite Games"
 msgstr "Favoriete spellen"
@@ -697,7 +861,7 @@ msgid "Favorite:"
 msgstr "Favoriet:"
 
 msgid "Favorites:"
-msgstr ""
+msgstr "Favorieten:"
 
 msgid "Fighting"
 msgstr "Vechten"
@@ -707,13 +871,16 @@ msgid "File not found! %s"
 msgstr "Bestand niet gevonden! %s"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgid "Filter Games"
 msgstr "Filter spellen"
 
 msgid "Filter by Controller"
 msgstr "Filter per controller"
+
+msgid "Filter by Game Type"
+msgstr "Filter per spel type"
 
 msgid "Filter by Genre"
 msgstr "Filter per genre"
@@ -722,13 +889,37 @@ msgid "Filter by Online Features"
 msgstr "Filter per Online functies"
 
 msgid "Filter:"
-msgstr ""
+msgstr "Filter:"
+
+msgid "Fishing"
+msgstr "Vissen"
+
+msgid "Fitness"
+msgstr "Fitness"
 
 msgid "Fixing EXTEND partition..."
 msgstr "EXTEND partitie herstellen..."
 
+msgid "Flight Sim"
+msgstr "Vluchtsimulator"
+
+msgid "Football"
+msgstr "Voetbal"
+
+msgid "Force Devolution:"
+msgstr "Forceer Devolution:"
+
 msgid "Force NTSC"
 msgstr "Forceer NTSC"
+
+msgid "Force NTSC 480p"
+msgstr "Forceer NTSC 480p"
+
+msgid "Force PAL"
+msgstr "Forceer PAL"
+
+msgid "Force PAL 480p"
+msgstr "Forceer PAL 480p"
 
 msgid "Force PAL50"
 msgstr "Forceer PAL50"
@@ -747,13 +938,19 @@ msgid "French"
 msgstr "Frans"
 
 msgid "Full"
-msgstr ""
+msgstr "Volledig"
+
+msgid "Futuristic Racing"
+msgstr "Racing"
 
 msgid "GB"
 msgstr "GB"
 
 msgid "Game Default"
 msgstr "Spel standaard"
+
+msgid "Game ID"
+msgstr "Spel ID"
 
 msgid "Game Options"
 msgstr "Spel opties"
@@ -762,18 +959,24 @@ msgstr "Spel opties"
 msgid "Game Options:  %s"
 msgstr "Spel opties:  %s"
 
+msgid "Game Type"
+msgstr "Spel Type"
+
+msgid "GameCube"
+msgstr "GameCube"
+
 msgid "Gamecube"
 msgstr "Gamecube"
 
 msgid "Gamer Card:"
-msgstr ""
+msgstr "Speler kaart:"
 
 #, c-format
 msgid "Gamercard #%d reported: %.*s"
 msgstr "Spelerkaart #%d meldt: %.*s"
 
 msgid "Genre"
-msgstr ""
+msgstr "Soort"
 
 msgid "German"
 msgstr "Duits"
@@ -781,29 +984,47 @@ msgstr "Duits"
 msgid "Global Options"
 msgstr "Globale opties"
 
+msgid "Golf"
+msgstr "Golf"
+
 msgid "Guitar"
 msgstr "Gitaar"
 
 msgid "HQ cover"
-msgstr ""
+msgstr "HD cover"
 
 msgid "HTTP Response was without a file"
 msgstr "HTTP antwoord zonder een bestand"
 
+msgid "Health"
+msgstr "Gezondheid"
+
+msgid "Hidden Object"
+msgstr "Verborgen Object"
+
 msgid "Hide"
-msgstr ""
+msgstr "Verbergen"
 
 msgid "Hide Game:"
 msgstr "Spel verbergen:"
 
+msgid "Hockey"
+msgstr "Hockey"
+
 msgid "Hold button B to cancel."
 msgstr "Houd B ingedrukt om te annuleren."
 
+msgid "Home Menu"
+msgstr "Startmenu"
+
 msgid "Homebrew Channel"
-msgstr ""
+msgstr "Homebrew Kanaal"
 
 msgid "Hook Type:"
 msgstr "Hook Type"
+
+msgid "Hunting"
+msgstr "Jagen"
 
 #, c-format
 msgid "ID mismatch: [%.6s] [%.6s]"
@@ -829,8 +1050,11 @@ msgstr ""
 msgid "Inconsistency in LZ77 encoding %x"
 msgstr "Inconsistentie in LZ77 encodering %x"
 
+msgid "Infinity Base"
+msgstr "Infinity basis"
+
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #, c-format
 msgid "Info file: %s"
@@ -840,7 +1064,7 @@ msgid "Initializing Network..."
 msgstr "Netwerk initialiseren..."
 
 msgid "Install"
-msgstr ""
+msgstr "Installeen"
 
 msgid "Install Date"
 msgstr "Installatiedatum"
@@ -874,11 +1098,23 @@ msgstr "Japans"
 msgid "Japanese Title"
 msgstr "Japanse Titel"
 
+msgid "Jump"
+msgstr "Springen"
+
+msgid "Karaoke"
+msgstr "Karaoke"
+
+msgid "Kart Racing"
+msgstr "Karten"
+
 msgid "Keyboard"
 msgstr "Toetsenbord"
 
 msgid "Korean"
 msgstr "Koreaans"
+
+msgid "LED:"
+msgstr "LED:"
 
 msgid "LEFT"
 msgstr "LINKS"
@@ -895,6 +1131,9 @@ msgstr "Laatst gespeeld"
 msgid "Launch Methods"
 msgstr "Opstart methode"
 
+msgid "Life Simulation"
+msgstr "Simulatie"
+
 msgid "Load OK!"
 msgstr "Laden OK!"
 
@@ -905,8 +1144,12 @@ msgstr "Loader versie: %s"
 msgid "Loading ..."
 msgstr "Laden..."
 
+#, c-format
+msgid "Loading..%s\n"
+msgstr "Laden..%s\n"
+
 msgid "Main"
-msgstr ""
+msgstr "Hoofd"
 
 msgid "Main Menu"
 msgstr "Hoofdmenu"
@@ -922,13 +1165,25 @@ msgid "Manage"
 msgstr "Beheer"
 
 msgid "Manage Cheats"
-msgstr ""
+msgstr "Beheer Cheats"
+
+msgid "Management Sim"
+msgstr "Beheer Sim"
+
+msgid "Martial Arts"
+msgstr "Vechtsport"
 
 msgid "Microphone"
 msgstr "Microfoon"
 
+msgid "Mighty Plugin"
+msgstr "Mighty Plugin"
+
 msgid "Motion+"
 msgstr "Motion+"
+
+msgid "Motorcycle Racing"
+msgstr "Motor Racen"
 
 msgid "Mounting device, please wait..."
 msgstr "Apparaat laden, even geduld..."
@@ -968,6 +1223,20 @@ msgstr "Muziek: Aantal van %s bestanden gevonden: %i"
 
 msgid "Music: musicArray contents: "
 msgstr "Muziek: inhoud musicArray: "
+
+#, c-format
+msgid ""
+"NAND Emu Path:\n"
+"%s\n"
+msgstr ""
+"NAND Emu Path:\n"
+"%s\n"
+
+msgid "NAND Emu:"
+msgstr "NAND Emu:"
+
+msgid "NMM:"
+msgstr "NMM:"
 
 msgid ""
 "NOTE: CIOS249 before rev10:\n"
@@ -1021,6 +1290,13 @@ msgstr ""
 "Opmerking: De lader moet herstarten voor\n"
 "de wijzigingen in werking treden"
 
+msgid ""
+"NOTE: may loader restart is required\n"
+"for the settings to take effect."
+msgstr ""
+"Opmerking: De lader moet misschien herstarten\n"
+"voor de wijzigingen in werking treden"
+
 #, c-format
 msgid ""
 "NOTE: partition P#%d is type EXTEND but\n"
@@ -1038,6 +1314,12 @@ msgstr "NTFS compressie wordt niet ondersteund"
 
 msgid "NTFS encryption not supported!"
 msgstr "NTFS versleuteling wordt niet ondersteund!"
+
+msgid "NTSC-J patch:"
+msgstr "NTSC-J patch:"
+
+msgid "Neek2o Plugin"
+msgstr "Neek2o Plugin"
 
 msgid "Network connection established."
 msgstr "Netwerk verbinding geslaagd."
@@ -1073,8 +1355,14 @@ msgstr "Geen Thema's gevonden"
 msgid "No updates found."
 msgstr "Geen updates gevonden"
 
+msgid "NoDisc:"
+msgstr "Geen Disc:"
+
 msgid "None found on disc"
 msgstr "Geen gevonden op disc"
+
+msgid "Not Found boot.dol!"
+msgstr "Boot.dol niet gevonden!"
 
 msgid "Not Found!"
 msgstr "Niet gevonden!"
@@ -1121,32 +1409,35 @@ msgstr "Ocarina: teveel codes"
 msgid "Off"
 msgstr "Uit"
 
+msgid "Off-Road Racing"
+msgstr "Terrein racing"
+
 msgid "On"
 msgstr "Aan"
 
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgid "Online Content"
 msgstr "Online Content"
 
 msgid "Online Play"
-msgstr "Online spelen"
+msgstr "Online Spelen"
 
 msgid "Online Players"
-msgstr ""
+msgstr "Online Spelers"
 
 msgid "Online Score List"
-msgstr "Online scorebord"
+msgstr "Online Scorebord"
 
 msgid "Online Updates"
-msgstr ""
+msgstr "Online Updates"
 
 msgid "Open Sort"
-msgstr ""
+msgstr "Open Sortering"
 
 msgid "Open Style"
-msgstr ""
+msgstr "Open Stijl"
 
 msgid "Opening DVD disc..."
 msgstr "DVD disc openen..."
@@ -1156,7 +1447,7 @@ msgid "Opening partition: %s"
 msgstr "Openen partitie: %s"
 
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 msgid "Options discarded for this game."
 msgstr "Opties voor dit spel verwijderd."
@@ -1167,8 +1458,21 @@ msgstr "Opties voor dit spel opgeslagen"
 msgid "Out of memory"
 msgstr "Geen geheugen meer"
 
+#, c-format
+msgid "P1 %3u%% | P2 %3u%% | P3 %3u%% | P4 %3u%%"
+msgstr "P1 %3u%% | P2 %3u%% | P3 %3u%% | P4 %3u%%"
+
+msgid "PAD HOOK"
+msgstr "PAD HOOK"
+
+msgid "PAD HOOK:"
+msgstr "PAD HOOK:"
+
 msgid "Page:"
-msgstr ""
+msgstr "Blz:"
+
+msgid "Partial"
+msgstr "Gedeeltelijk"
 
 msgid "Partition:"
 msgstr "Partitie:"
@@ -1183,6 +1487,12 @@ msgstr "Feest"
 msgid "Paused Start"
 msgstr "Start gepauzeerd"
 
+msgid "Petanque"
+msgstr "Jeu de Boules"
+
+msgid "Pinball"
+msgstr "Flipperen"
+
 msgid "Platformer"
 msgstr "Platform"
 
@@ -1190,10 +1500,19 @@ msgid "Play Count"
 msgstr "Spel teller"
 
 msgid "Players"
-msgstr ""
+msgstr "Spelers"
 
 msgid "Please insert a game disc..."
-msgstr "Voeg een speldisc in..."
+msgstr "Plaats een DVD in de Wii..."
+
+msgid "Plugin:"
+msgstr "PLugin:"
+
+msgid "Poker"
+msgstr "Pokeren"
+
+msgid "Portal of Power"
+msgstr "Portal of Power"
 
 #, c-format
 msgid "Press %s button for options."
@@ -1323,8 +1642,14 @@ msgstr "Druk %s om te updaten zonder meta.xml"
 msgid "Press %s/%s to select device."
 msgstr "Druk LINKS/RECHTS om een apparaat te kiezen."
 
+msgid "Press 1 to skip WBFS mounting"
+msgstr "Druk op 1 om WBFS koppeling over te slaan"
+
 msgid "Press 2 to reload IOS"
 msgstr "Druk op 2 om IOS te herladen"
+
+msgid "Press A to continue without config.txt"
+msgstr "Druk op A om door te gaan zonder config.txt"
 
 msgid "Press A to select device"
 msgstr "Druk op A om apparaat te selekteren"
@@ -1347,6 +1672,9 @@ msgstr "Druk om af te sluiten..."
 msgid "Press any button to restart..."
 msgstr "Druk om te herstarten..."
 
+msgid "Press any button.\n"
+msgstr "Druk op een knop.\n"
+
 msgid "Press any button..."
 msgstr "Druk op een knop..."
 
@@ -1358,6 +1686,9 @@ msgstr "Druk knop %s om hoesjes te downloaden."
 msgid "Press button %s to eject DVD."
 msgstr "Druk %s om de DVD uit te werpen."
 
+msgid "Priiloader"
+msgstr "Priiloader"
+
 msgid "Profile:"
 msgstr "Profiel:"
 
@@ -1366,7 +1697,7 @@ msgid "Profile: %s"
 msgstr "Profiel: %s"
 
 msgid "Program Updates"
-msgstr ""
+msgstr "Programma Updates"
 
 msgid "Publisher"
 msgstr "Uitgever"
@@ -1375,7 +1706,7 @@ msgid "Puzzle"
 msgstr "Puzzel"
 
 msgid "Quit"
-msgstr ""
+msgstr "Stoppen"
 
 msgid "RAW"
 msgstr "RAW"
@@ -1388,6 +1719,9 @@ msgstr "RPG"
 
 msgid "Racing"
 msgstr "Racen"
+
+msgid "Rail Shooter"
+msgstr "Rail Shooter"
 
 #, c-format
 msgid "Rated %s"
@@ -1403,7 +1737,10 @@ msgid "Reading BCA..."
 msgstr "BCA lezen..."
 
 msgid "Reboot"
-msgstr ""
+msgstr "Opnieuw opstarten"
+
+msgid "Region"
+msgstr "Regio"
 
 msgid "Release Date"
 msgstr "Uitgebracht op"
@@ -1425,7 +1762,10 @@ msgid "Rhythm"
 msgstr "Ritme"
 
 msgid "Rows:"
-msgstr ""
+msgstr "Rijen:"
+
+msgid "Rugby"
+msgstr "Rugby"
 
 msgid "Running benchmark, please wait"
 msgstr "Benchmark is bezig, even geduld"
@@ -1443,13 +1783,19 @@ msgid "Save .gct"
 msgstr ".gct opslaan"
 
 msgid "Save Debug"
-msgstr ""
+msgstr "Debug opslaan"
 
 msgid "Save Settings"
-msgstr ""
+msgstr "Settings opslaan"
 
 msgid "Save debug.log"
 msgstr "Opslaan debug.log"
+
+msgid "Savegame not found.\n"
+msgstr "Savegame niet gevonden.\n"
+
+msgid "Savegame:"
+msgstr "Savegame:"
 
 msgid "Saving Settings... "
 msgstr "Opties opslaan..."
@@ -1461,7 +1807,7 @@ msgid "Saving gamelist.txt ... "
 msgstr "gamelist.txt opslaan ..."
 
 msgid "Saving settings..."
-msgstr "Opties opslaan..."
+msgstr "Instellingen opslaan..."
 
 msgid "Saving:"
 msgstr "Opslaan:"
@@ -1470,8 +1816,17 @@ msgstr "Opslaan:"
 msgid "Saving: %s"
 msgstr "Opslaan: %s"
 
+msgid "Screenshot:"
+msgstr "Screenshot:"
+
 msgid "Scroll:"
-msgstr ""
+msgstr "Bladeren:"
+
+msgid "Search"
+msgstr "Zoek"
+
+msgid "Search for:"
+msgstr "Zoek naar:"
 
 msgid "Select Alternative .dol:"
 msgstr "Kies een Alt .dol:"
@@ -1488,6 +1843,9 @@ msgstr "Kies een partitie"
 msgid "Select all"
 msgstr "Kies alles"
 
+msgid "Select device:"
+msgstr "Kies apparaat:"
+
 msgid "Select the game you want to boot"
 msgstr "Kies een spel om te laden"
 
@@ -1495,22 +1853,25 @@ msgid "Selected Game"
 msgstr "Gekozen spel"
 
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 msgid "Shooter"
 msgstr "Schietspel"
 
 msgid "Show All"
-msgstr ""
+msgstr "Toon alles"
 
 msgid "Show cIOS info"
 msgstr "Show cIOS info"
 
 msgid "Shutdown"
-msgstr ""
+msgstr "Uitzetten"
 
 msgid "Side:"
-msgstr ""
+msgstr "Kant:"
+
+msgid "Sim Racing"
+msgstr "Race simulatie"
 
 msgid "Simulation"
 msgstr "Simulatie"
@@ -1522,17 +1883,32 @@ msgstr "Grootte(GB) Type MOunt gebruikt"
 msgid "Size: %d bytes"
 msgstr "Grootte: %d bytes"
 
+msgid "Skateboard"
+msgstr "Skateboard"
+
+msgid "Skateboarding"
+msgstr "Skateboarden"
+
+msgid "Skiing"
+msgstr "Skien"
+
+msgid "Snowboarding"
+msgstr "Snowboarden"
+
+msgid "Soccer"
+msgstr "Voetbal"
+
 msgid "Sort"
-msgstr ""
+msgstr "Sorteer"
 
 msgid "Sort Games"
 msgstr "Spellen sorteren"
 
 msgid "Sort Order:"
-msgstr ""
+msgstr "Sorteervolgorde:"
 
 msgid "Sort Type:"
-msgstr ""
+msgstr "Sorteer type:"
 
 #, c-format
 msgid "Sort: %s-%s"
@@ -1545,13 +1921,16 @@ msgid "Sports"
 msgstr "Sport"
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "Start Game"
 msgstr "Start spel"
 
 msgid "Start this game?"
 msgstr "Spel starten?"
+
+msgid "Stealth Action"
+msgstr "Stealth aktie"
 
 msgid "Stopping DVD..."
 msgstr "Stoppen DVD..."
@@ -1560,10 +1939,16 @@ msgid "Strategy"
 msgstr "Strategie"
 
 msgid "Style"
-msgstr ""
+msgstr "Stijl"
 
 msgid "Style:"
-msgstr ""
+msgstr "Stijl:"
+
+msgid "Surfing"
+msgstr "Surfen"
+
+msgid "Survival Horror"
+msgstr "Griezelen"
 
 msgid "Sync FAT free space info?"
 msgstr "Sync FAT info vrije schijfruimte?"
@@ -1571,14 +1956,26 @@ msgstr "Sync FAT info vrije schijfruimte?"
 msgid "Synchronizing, please wait."
 msgstr "Synchroniseren, even geduld..."
 
+msgid "Synopsis"
+msgstr "Samenvatting"
+
+msgid "Synopsis Length"
+msgstr "Lengte samenvatting"
+
 msgid "System"
-msgstr ""
+msgstr "Systeem"
 
 msgid "System Def."
 msgstr "Systeem def."
 
 msgid "T. Chinese"
 msgstr "Chinees (trad.)"
+
+msgid "Table Tennis"
+msgstr "Tafeltennis"
+
+msgid "Tennis"
+msgstr "Tennis"
 
 msgid "Theme"
 msgstr "Thema"
@@ -1623,9 +2020,24 @@ msgstr "Te veel lijnen code!"
 msgid "Too many fragments! %d"
 msgstr "Te veel fragmenten! %d"
 
+msgid "Total Body Tracking"
+msgstr "Total Body Tracking"
+
+msgid "Train Simulation"
+msgstr "Trein simulatie"
+
+msgid "Trivia"
+msgstr "Trivia"
+
+msgid "Truck Racing"
+msgstr "Truck racen"
+
 #, c-format
 msgid "Trying (url#%d) ..."
 msgstr "Proberen (url#%d) ..."
+
+msgid "Turntable"
+msgstr "Draaitafel"
 
 msgid "UNUSED"
 msgstr "ONGEBRUIKT"
@@ -1654,25 +2066,22 @@ msgid "Unknown syntax!"
 msgstr "Onbekende syntax!"
 
 msgid "Unplayed"
-msgstr ""
+msgstr "Niet gespeeld"
 
 msgid "Unplayed Games"
-msgstr "Ongespeelde spellen"
-
-msgid "Update WiiTDB Game Database"
-msgstr "WiiTDB Spellendatabase updaten"
+msgstr "Niet gespeelde spellen"
 
 msgid "Update themes"
 msgstr "Bijwerken thema's"
 
-msgid "Update titles.txt"
-msgstr "titles.txt updaten"
-
 msgid "Updates"
-msgstr ""
+msgstr "Updates"
 
 msgid "Updating database."
 msgstr "Database updaten..."
+
+msgid "Updating devolution"
+msgstr "Bijwerken devolution"
 
 #, c-format
 msgid "Used: %.1fGB Free: %.1fGB [%d]"
@@ -1680,6 +2089,33 @@ msgstr "Gebruikt: %.1fGB Vrij: %.1fGB [%d]"
 
 msgid "Using Saved Alternative .dol:"
 msgstr "Opgeslagen Alt dol wordt gebruikt:"
+
+msgid "VC-Arcade"
+msgstr "VC-Arcade"
+
+msgid "VC-Commodore 64"
+msgstr "VC-Commodore 64"
+
+msgid "VC-N64"
+msgstr "VC-N64"
+
+msgid "VC-NES"
+msgstr "VC-NES"
+
+msgid "VC-Neo Geo"
+msgstr "VC-Neo Geo"
+
+msgid "VC-SMS"
+msgstr "VC-SMS"
+
+msgid "VC-SNES"
+msgstr "VC-SNES"
+
+msgid "VC-Sega Genesis"
+msgstr "VC-Sega Genesis"
+
+msgid "VC-TurboGrafx-16"
+msgstr "VC-TurboGrafx-16"
 
 msgid "Version"
 msgstr "Versie"
@@ -1691,10 +2127,16 @@ msgid "Video:"
 msgstr "Video:"
 
 msgid "View"
-msgstr ""
+msgstr "Bekijk"
+
+msgid "Virtual Pet"
+msgstr "Virtueel huisdier"
 
 msgid "Vitality Sensor"
 msgstr "Levenssensor"
+
+msgid "Volleyball"
+msgstr "Volleybal"
 
 msgid "WARNING:"
 msgstr "WAARSCHUWING:"
@@ -1703,17 +2145,32 @@ msgstr "WAARSCHUWING:"
 msgid "WBFS: %.1fGB free of %.1fGB"
 msgstr "WBFS: %.1fGB vrij van %.1fGB"
 
+msgid "Watercraft Racing"
+msgstr "Water racen"
+
 msgid "Wheel"
 msgstr "Wiel"
+
+msgid "Wide Screen:"
+msgstr "Breedbeeld"
+
+msgid "Wii"
+msgstr "Wii"
+
+msgid "Wii Channel"
+msgstr "Wii kanaal"
 
 msgid "Wii Speak"
 msgstr "Wii Speak"
 
-msgid "WiiTDB Game Database"
-msgstr ""
+msgid "WiiWare"
+msgstr "WiiWare"
 
 msgid "Wiimote"
 msgstr "Wiimote"
+
+msgid "Wrestling"
+msgstr "Worstelen"
 
 msgid "Write Playlog:"
 msgstr "Loggen op prikbord:"
@@ -1755,19 +2212,19 @@ msgid "[ SAVED ]"
 msgstr "[ OPGESLAGEN ]"
 
 msgid "[HOME]"
-msgstr ""
+msgstr "[HOME]"
 
 msgid "[No HQ]"
-msgstr ""
+msgstr "[Geen HD]"
 
 msgid "[USED]"
 msgstr "[GEBRUIKT]"
 
 msgid "[default]"
-msgstr ""
+msgstr "[standaard]"
 
 msgid "[saved]"
-msgstr ""
+msgstr "[opgeslagen]"
 
 #, c-format
 msgid "bad wbfs file: %s"
@@ -1784,7 +2241,7 @@ msgid "dest: %p - %p"
 msgstr "doel: %p - %p"
 
 msgid "discard"
-msgstr ""
+msgstr "weggooien"
 
 #, c-format
 msgid "domain %s could not be resolved"
@@ -1815,6 +2272,10 @@ msgid "linear..."
 msgstr "lineair..."
 
 #, c-format
+msgid "loader.bin size: %d"
+msgstr "loader.bin grootte: %d"
+
+#, c-format
 msgid "music file too big (%d) %s"
 msgstr "muziekbestand te groot (%d) %s"
 
@@ -1836,6 +2297,12 @@ msgstr "pag"
 msgid "parse error"
 msgstr "parse fout"
 
+msgid "r51-"
+msgstr "r51-"
+
+msgid "r52+"
+msgstr "r52+"
+
 #, c-format
 msgid "random read speed: %.2f mb/s"
 msgstr "willek. leessnelheid: %.2f mb/s"
@@ -1844,10 +2311,10 @@ msgid "random..."
 msgstr "willekeurig..."
 
 msgid "reset"
-msgstr ""
+msgstr "reset"
 
 msgid "revert"
-msgstr ""
+msgstr "herstel"
 
 msgid "save"
 msgstr "opslaan"
@@ -1866,8 +2333,20 @@ msgstr "kan wii disc niet openen"
 msgid "used: %p - %p"
 msgstr "gebruikt: %p - %p"
 
+#~ msgid "Booting Wii game, please wait..."
+#~ msgstr "Spel wordt gestart: even geduld..."
+
+#~ msgid "Console Def."
+#~ msgstr "Console Def."
+
 #~ msgid "Loading previous game list..."
 #~ msgstr "Laden vorige spellenlijst..."
 
 #~ msgid "Remove Game"
 #~ msgstr "Spel verwijderen"
+
+#~ msgid "Update WiiTDB Game Database"
+#~ msgstr "WiiTDB Spellendatabase updaten"
+
+#~ msgid "Update titles.txt"
+#~ msgstr "titles.txt updaten"

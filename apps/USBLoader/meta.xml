@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+<name>Configurable USB Loader</name>
+<version>70r78.13</version>
+<release_date>20240915000000</release_date>
+<coder>oggzee, usptactical, gannon, Clipper,...</coder>
+<short_description>Play from USB drive</short_description>
+<long_description>
+Play Wii Backups from USB harddrive
+Waninkoko cIOS 249 is required!
+Hermes cIOS 222/223 is supported.
+USE AT YOUR OWN RISK!
+</long_description>
+<ahb_access/>
+</app>

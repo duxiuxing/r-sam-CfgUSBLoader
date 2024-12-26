@@ -1,5 +1,5 @@
 # Config file sample:
-# see README-CFG.txt for all config options
+# see README.md for all config options
 theme = Simplex
 music = usb:/usb-loader/music
 device = usb
